@@ -1,0 +1,1 @@
+print("NewTon approximation in Python")
